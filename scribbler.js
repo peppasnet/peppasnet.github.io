@@ -18,9 +18,9 @@ if (document.getElementsByClassName('demo').length > 0) {
             ###Contact George
 
             - Dockers
-            - JAVA Spring Boot
+            - JAVA Spring Boot☕
             - Postgres
-            - kafka 🥝`;
+            - kKafka 🍕`;
   var speed = 60;
 
   function typeItOut () {
