@@ -13,7 +13,7 @@ var getAll = function (selector, scope) {
 if (document.getElementsByClassName('demo').length > 0) {
   var i = 0;
   var txt = `peppas start
-            [Entry mode; press Ctrl+D to save and quit; press Ctrl+C to quit without saving]
+            [Welcome to George Peppas personal website.]
 
             ###Contact George 📱🙋‍♂️
 
