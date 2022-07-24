@@ -12,15 +12,15 @@ var getAll = function (selector, scope) {
 // setup typewriter effect in the terminal demo
 if (document.getElementsByClassName('demo').length > 0) {
   var i = 0;
-  var txt = `scribbler
+  var txt = `peppas start
             [Entry mode; press Ctrl+D to save and quit; press Ctrl+C to quit without saving]
 
-            ###todo for new year dinner party
+            ###Contact George
 
-            - milk
-            - butter
-            - green onion
-            - lots and lots of kiwis 🥝`;
+            - Dockers
+            - JAVA Spring Boot
+            - Postgres
+            - kafka 🥝`;
   var speed = 60;
 
   function typeItOut () {
