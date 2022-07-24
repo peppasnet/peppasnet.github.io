@@ -15,11 +15,11 @@ if (document.getElementsByClassName('demo').length > 0) {
   var txt = `peppas start
             [Entry mode; press Ctrl+D to save and quit; press Ctrl+C to quit without saving]
 
-            ###Contact George
+            ###Contact George 📱🙋‍♂️
 
-            - Dockers
-            - JAVA Spring Boot☕
-            - Postgres
+            - Dockers 📦
+            - JAVA Spring Boot ☕
+            - Postgres 🪣
             - kKafka 🍕`;
   var speed = 60;
 
