@@ -20,7 +20,8 @@ if (document.getElementsByClassName('demo').length > 0) {
             - Dockers 📦
             - JAVA Spring Boot ☕
             - Postgres 🪣
-            - Kafka 🍕`;
+            - Kafka 🍕
+            - Angular 🕸`;
   var speed = 60;
 
   function typeItOut () {
